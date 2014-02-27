@@ -1,0 +1,92 @@
+body 
+		{ 
+			background-color: #64757F;
+			float:center;
+	 	}
+ 	ul
+		{
+			list-style-type: none;
+			padding: 0px;
+			margin: 0px;
+		}
+	h1
+		{
+			font-family: 'Raleway', sans-serif;
+			font-style:bold;
+		}
+	h2
+		{
+			font-family: 'Averia Libre', cursive;
+		}
+	p
+		{
+			font-family: 'Crimson Text', serif;
+		}
+	#sitetitle
+	 	{
+ 			text-align: left;
+ 			width:800px;
+			margin-left: auto;
+			margin-right:auto;
+			margin-top: 20px;
+			margin-bottom: 20px;
+			color: white;
+			border-bottom: solid #3E657F;
+	 	}
+ 	.main
+		{
+			width:800px;
+			margin-left: auto;
+			margin-right:auto;
+			margin-top: 20px;
+			padding:15px;
+			border-bottom: solid #555555;
+			border-right: solid #555555;
+			background-color: #EBF1F1;
+		}
+	#postcategory
+		{
+			text-align: center;
+			font-size: 0.7em;
+		}
+	#posttitle
+		{
+			background-color: #3E657F;
+			color:#FFFFFF;
+			text-align: center;
+			line-height: 30px;		
+		}
+	#postcontent
+		{
+			text-align: left;
+			margin-left: 15px;
+			margin-right: 15px;
+		}
+	#admincontent
+		{
+			height:300px;
+			width:80%;
+		}
+	#adminmain
+		{
+			text-align: center;
+		}
+	.create1
+		{
+			margin:10px;
+			margin-right: 100%;
+			float:left;
+		}
+	.create2
+		{
+			margin:20px;
+			float:left;
+		}
+	.create3
+		{
+			margin:20px;
+		}
+	#title1
+		{
+			color:red;
+		}

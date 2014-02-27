@@ -1,0 +1,10 @@
+[30-Jan-2014 18:21:53 America/New_York] PHP Fatal error:  Call to a member function get() on a non-object in /home/ccit1570/public_html/cct460/application/models/blog_model.php on line 5
+[06-Feb-2014 17:22:15 America/New_York] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ';' or '{' in /home/ccit1570/public_html/cct460/application/controllers/admin.php on line 33
+[06-Feb-2014 17:22:32 America/New_York] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ';' or '{' in /home/ccit1570/public_html/cct460/application/controllers/admin.php on line 33
+[06-Feb-2014 17:22:46 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting function (T_FUNCTION) in /home/ccit1570/public_html/cct460/application/controllers/admin.php on line 32
+[06-Feb-2014 17:29:43 America/New_York] PHP Parse error:  syntax error, unexpected '$', expecting '&' or variable (T_VARIABLE) in /home/ccit1570/public_html/cct460/application/controllers/admin.php on line 33
+[15-Feb-2014 12:54:41 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/ccit1570/public_html/cct460/application/controllers/blog.php on line 11
+[15-Feb-2014 12:55:10 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/ccit1570/public_html/cct460/application/controllers/blog.php on line 11
+[15-Feb-2014 12:55:11 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/ccit1570/public_html/cct460/application/controllers/blog.php on line 11
+[15-Feb-2014 12:55:11 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/ccit1570/public_html/cct460/application/controllers/blog.php on line 11
+[15-Feb-2014 12:55:11 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/ccit1570/public_html/cct460/application/controllers/blog.php on line 11
