@@ -24,7 +24,7 @@
       $this->blog_model->create_post();
       $this->load->view('templates/header', $data);
       $this->load->view('admin_success_view');
-      $this->load->view('templates/footer');
+      $this->load->view('templates/footer');     $this->load->view('templates/footer');
     }
 
     function update($id)
