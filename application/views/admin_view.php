@@ -15,6 +15,7 @@
       <input type="submit" name="submit" value="Create">
     </form>
 
+
     <h2>Edit Posts</h2>
     <ul>
       <?php foreach($posts as $post): ?>
