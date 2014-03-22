@@ -8,12 +8,10 @@
   <body>
     <h1><?php echo $title; ?> | Admin</h1>
     <?php echo form_open('admin/create') ?>
-      <label>Title</label>
-      <input type="text" name="title">
       <label>Content</label>
       <textarea name="content"></textarea>
-      <label>Category</label>
-      <textarea name="category"></textarea>
+      <label>Author</label>
+      <textarea name="author"></textarea>
       <input type="submit" name="submit" value="Create">
     </form>
 
