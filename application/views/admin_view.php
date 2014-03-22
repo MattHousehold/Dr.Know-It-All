@@ -16,14 +16,14 @@
     </form>
 
 
-    <h2>Edit Posts</h2>
+    <h2>Edit Quote</h2>
     <ul>
       <?php foreach($posts as $post): ?>
         <li><a href="/~ccit1570/MattFinalAssignment/index.php/admin/update/<?php echo $post['id']; ?>"><?php echo $post['title']; ?></a> | <a href="/~ccit1570/MattFinalAssignment/index.php/admin/delete/<?php echo $post['id']; ?>">Delete Added Quote</a></li>
       <?php endforeach; ?>
     </ul>
 
-    <a href="/~ccit1570/MattFinalAssignment/index.php/blog" target="_blank"><p>View Your Submitted Quote</p></a>
+    <align ="center"><a href="/~ccit1570/MattFinalAssignment/index.php/blog" target="_blank"><p>View Your Submitted Quote</p></a></center>
 
   </body>
 </html>
