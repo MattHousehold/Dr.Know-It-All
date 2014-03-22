@@ -6,10 +6,10 @@
   </head>
 
   <body>
-    <h1><?php echo $title; ?> | Admin</h1>
+    <h1><?php echo $title; ?> Dr. Know It All</h1>
     <?php echo form_open('admin/create') ?>
       <label>Content</label>
-      <textarea name="content"></textarea>
+      <textarea name="Quote"></textarea>
       <label>Author</label>
       <textarea name="author"></textarea>
       <input type="submit" name="submit" value="Create">

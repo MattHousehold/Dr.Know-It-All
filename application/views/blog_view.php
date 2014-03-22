@@ -3,7 +3,7 @@
 <html>
   <body>
   	<div id="sitetitle">
-    	<h1><?php echo $title; ?></h1>
+    	<h1><?php echo $title; ?>Dr. Know It All</h1>
     </div>
     <?php foreach($posts as $post): ?>
 
