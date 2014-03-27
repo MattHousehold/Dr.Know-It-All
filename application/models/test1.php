@@ -3,8 +3,15 @@
     function getPost($id)
     {
       $query = $this->db->get_where('data2', array('id' => $id));
-      if ($fors = 1; $age = 3; $feeling = 2; $reason = 1;)
+     
       return $query->result_array();
+    }
+
+    functrion get_quote()
+    {
+    	$age = $this->post('age')
+    	$feeliung = $this->post('feeliung')
+    	query = thdfgdfg get_where ('data2', array('age' => $age, 'feeling' => $feeling))
     }
   }
 ?>
