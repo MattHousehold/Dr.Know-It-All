@@ -3,13 +3,13 @@
 <html>
   <body>
   	<div id="sitetitle">
-    	<h1><?php echo $title; ?>Dr. Know It All</h1>
+    	<h1><?php echo $title; ?></h1>
     </div>
     <?php foreach($posts as $post): ?>
 
     <div class="main">
     	<div id="posttitle">
-      		<h2><?php echo $post['title']; ?></h2>
+      		<h3><?php echo $post['title']; ?></h3>
    	 	</div>
         	<p id="postcontent"><?php echo $post['content']; ?></p>
       		<p id="postcategory"><?php echo $post['category']; ?></p>
