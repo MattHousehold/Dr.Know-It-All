@@ -1,27 +1,118 @@
 body 
 		{ 
-			background-color: blue;
+			background-image:url("https://scontent-b-ord.xx.fbcdn.net/hphotos-frc3/t1.0-9/10001312_10152131460803311_9212375441745979948_n.jpg");
 			float:center;
 	 	}
+ 	
  	ul
 		{
 			list-style-type: none;
 			padding: 0px;
 			margin: 0px;
 		}
+	
 	h1
 		{
-			font-family: 'Raleway', sans-serif;
 			font-style:bold;
+			text-align:center;
+			color:#424343;
+			font-size: 46px;
+			letter-spacing:2px;
+			font-family: 'Merriweather', serif;
+			padding-bottom:100px;
 		}
+	
 	h2
 		{
+			color:#0099CC;
 			font-family: 'Averia Libre', cursive;
 		}
+	
+	h3 
+	    {
+		color:#383838;
+	    }
+
 	p
 		{
 			font-family: 'Crimson Text', serif;
 		}
+    
+    label
+        {
+          font-family: 'Merriweather', serif;
+            font-size: 18px;
+            font-weight: bold;
+            color: #383838;
+            margin-left:400px;
+        }
+
+    .label
+        {
+          font-family: 'Merriweather', serif;
+            font-size: 25px;
+            font-weight: bold;
+            color: #383838;
+            margin-bottom:2px;
+            margin-left:12%;
+        }
+
+    #landcat1
+        {
+            margin-left:12%;
+        }
+
+    .label1
+        {
+          font-family: 'Merriweather', serif;
+            font-size: 25px;
+            font-weight: bold;
+            color: #383838;
+            margin-top:-99px;
+            margin-bottom:2px;
+            margin-left:46%;
+            
+        }
+
+    #landcat2
+        {
+            margin-left:46%;
+        }
+
+
+    .label2
+        {
+          font-family: 'Merriweather', serif;
+            font-size: 25px;
+            font-weight: bold;
+            color: #383838;
+            margin-top:-99px;
+            margin-bottom:2px;
+            margin-left:80%
+        }
+
+    #landcat3
+        {
+            margin-left:80%
+        }
+
+    #category1
+        {
+        	margin-left:400px;
+        }
+
+    #category2
+        {
+            margin-top:-230px;
+            margin-left:700px;
+        }
+    
+    #submit, #submit1
+        {
+            text-align: center;
+            margin-top:50px;
+        }
+     
 	#sitetitle
 	 	{
  			text-align: left;
@@ -33,6 +124,7 @@ body
 			color: white;
 			border-bottom: solid #3E657F;
 	 	}
+
  	.main
 		{
 			width:800px;
@@ -44,49 +136,38 @@ body
 			border-right: solid #555555;
 			background-color: #EBF1F1;
 		}
-	#postcategory
-		{
-			text-align: center;
-			font-size: 0.7em;
-		}
-	#posttitle
-		{
-			background-color: #3E657F;
-			color:#FFFFFF;
-			text-align: center;
-			line-height: 30px;		
-		}
-	#postcontent
-		{
-			text-align: left;
-			margin-left: 15px;
-			margin-right: 15px;
-		}
+
 	#admincontent
 		{
 			height:300px;
 			width:80%;
 		}
+
 	#adminmain
 		{
 			text-align: center;
 		}
+
 	.create1
 		{
 			margin:10px;
 			margin-right: 100%;
 			float:left;
+
 		}
+
 	.create2
 		{
 			margin:20px;
 			float:left;
 		}
+
 	.create3
 		{
 			margin:20px;
 		}
-	#title1
-		{
-			color:red;
-		}
+
+  
+	
+	
+	
