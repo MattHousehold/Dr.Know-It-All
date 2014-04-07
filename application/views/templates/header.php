@@ -3,7 +3,11 @@
 <html>
 <head>
   	<title><?php echo $title; ?></title>
+<<<<<<< HEAD
   	<link rel="stylesheet" type="text/css" href="/~ccit1570/drdr/assets/style.css">
+=======
+  	<link rel="stylesheet" type="text/css" href="/~ccit1570/dr-know-it-all/assets/style.css">
+>>>>>>> FETCH_HEAD
 	<link href='http://fonts.googleapis.com/css?family=Raleway:400,800' rel='stylesheet' type='text/css'>  <link href='http://fonts.googleapis.com/css?family=Averia+Libre:400,700' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Crimson+Text' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
